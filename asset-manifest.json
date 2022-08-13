@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://mohantypulak.github.io/csb-mj00nh/static/css/main.7ac976ac.chunk.css",
+    "main.js": "https://mohantypulak.github.io/csb-mj00nh/static/js/main.3d824c5f.chunk.js",
+    "main.js.map": "https://mohantypulak.github.io/csb-mj00nh/static/js/main.3d824c5f.chunk.js.map",
+    "runtime-main.js": "https://mohantypulak.github.io/csb-mj00nh/static/js/runtime-main.a8c5dd86.js",
+    "runtime-main.js.map": "https://mohantypulak.github.io/csb-mj00nh/static/js/runtime-main.a8c5dd86.js.map",
+    "static/js/2.8523882c.chunk.js": "https://mohantypulak.github.io/csb-mj00nh/static/js/2.8523882c.chunk.js",
+    "static/js/2.8523882c.chunk.js.map": "https://mohantypulak.github.io/csb-mj00nh/static/js/2.8523882c.chunk.js.map",
+    "index.html": "https://mohantypulak.github.io/csb-mj00nh/index.html",
+    "static/css/main.7ac976ac.chunk.css.map": "https://mohantypulak.github.io/csb-mj00nh/static/css/main.7ac976ac.chunk.css.map",
+    "static/js/2.8523882c.chunk.js.LICENSE.txt": "https://mohantypulak.github.io/csb-mj00nh/static/js/2.8523882c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8c5dd86.js",
+    "static/js/2.8523882c.chunk.js",
+    "static/css/main.7ac976ac.chunk.css",
+    "static/js/main.3d824c5f.chunk.js"
+  ]
+}
